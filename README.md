@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on maintaining custom for POCO F1<br>👯 I’m looking to collaborate on another developers and Tech Enthusiast<br>🤝 I’m looking for help with Tech Enthusiast<br>🌱 I’m currently learning custom rom development <br>💬 Ask me about anything u want i'll answer u<br>⚡ Fun fact that i am lazy
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Finnaib&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Finnaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Finnaib01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-shoaib-712998135) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Finnaib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Finnaib01) 
