@@ -2,7 +2,7 @@
 🔭 I’m currently working on maintaining custom for POCO F1<br>👯 I’m looking to collaborate on another developers and Tech Enthusiast<br>🤝 I’m looking for help with Tech Enthusiast<br>🌱 I’m currently learning custom rom development <br>💬 Ask me about anything u want i'll answer u<br>⚡ Fun fact that i am lazy
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Finnaib&label=Profile%20Views&color=1&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=Finnaib&label=Profile%20Views&color=0&pretty=false" />
 </a>
 
 ## 🌐 Socials:
