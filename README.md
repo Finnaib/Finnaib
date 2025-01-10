@@ -20,5 +20,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21riuznmulhmifwjkn63xewyq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21riuznmulhmifwjkn63xewyq&redirect=true)
